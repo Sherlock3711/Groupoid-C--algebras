@@ -14,7 +14,7 @@ Noncommutative Geometry (normal) subgroup of Analysis and Dynamical systems grou
 For more information, please contact y.ge@math.leidenuniv.nl
 
 ## Schedule
-|  Date   | Speaker  |  Topoic |
+|  Date   | Speaker  |  Topic |
 |  ----  | ----  | ----  |
 | 9.13  | Yuezhao | Groupoids: motivations, definitions, and examples. |
 | 9.20  | Yufan |  Haar systems and convolution algebras. |
