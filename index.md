@@ -1,4 +1,4 @@
-# Welcome to the world of Groupoid C*-algebras
+# Welcome to the webpage of Groupoid C*-algebras :)
 
 In the upcoming 2022 fall semester, we will be running a seminar on Groupoids and C*-algebras. 
 
