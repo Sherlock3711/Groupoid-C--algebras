@@ -11,3 +11,13 @@
 | 9.27  | Jack | Actions: part 1 |
 | 10.4  | Bram | Actions: part 2 |
 | 10.11 | Dimitris| Equivalent relations|
+| 10.18 | Undecided | Undecided |
+| 10.25 | Undecided | Undecided |
+| 11.1 | Undecided | Undecided |
+| 11.8 | Undecided | Undecided |
+| 11.15 | Undecided | Undecided |
+| 11.22 | Undecided | Undecided |
+| 11.29 | Undecided | Undecided |
+| 12.6 | Undecided | Undecided |
+| 12.13 | Undecided | Undecided |
+| 12.20 | Undecided | Undecided |
