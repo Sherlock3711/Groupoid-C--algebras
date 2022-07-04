@@ -8,14 +8,15 @@ We will follow the text book ___A Tool Kit for Groupoid C*-algebras___ in the fi
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-## Organizers: 
+### Organizers: 
 Noncommutative Geometry (normal) subgroup of Analysis and Dynamical systems group.
 
 For more information, please contact y.ge@math.leidenuniv.nl
 
-## Schedule
+### Schedule:
+
 |  Date   | Speaker  |  Topic |
-|  ----  | ----  | ----  |
+|  ----  | ----  | ---- |
 | 9.13  | Yuezhao | Groupoids: motivations, definitions, and examples. |
 | 9.20  | Yufan |  Haar systems and convolution algebras. |
 | 9.27  | Jack | Actions: part 1 |
