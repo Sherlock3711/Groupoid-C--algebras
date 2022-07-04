@@ -20,7 +20,7 @@ For more information, please contact y.ge@math.leidenuniv.nl
 | 9.20  | Yufan |  Haar systems and convolution algebras. |
 | 9.27  | Jack | Actions: part 1 |
 | 10.4  | Bram | Actions: part 2 |
-| 10.11 | Dimitris| Equivalent relations|
+| 10.11 | Dimitris| The Equivalence Theorem|
 | 10.18 | Undecided | Undecided |
 | 10.25 | Undecided | Undecided |
 | 11.1 | Undecided | Undecided |
