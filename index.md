@@ -4,3 +4,10 @@
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
+|  Date   | Speaker  |  Topoic |
+|  ----  | ----  | ----  |
+| 9.13  | Yuezhao | Groupoids: motivations, definitions, and examples. |
+| 9.20  | Yufan |  Haar systems and convolution algebras. |
+| 9.27  | Jack | Actions: part 1 |
+| 10.4  | Bram | Actions: part 2 |
+| 10.11 | Dimitris| Equivalent relations|
