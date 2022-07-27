@@ -14,7 +14,7 @@ Noncommutative Geometry (normal) subgroup of Analysis and Dynamical systems grou
 For more information, please contact y.ge@math.leidenuniv.nl
 
 ### Location:
-[Snellius Building room 401](https://www.universiteitleiden.nl/locaties/snellius#tab-1) starting from 13:15 to 15:00.
+[Snellius Building](https://www.universiteitleiden.nl/locaties/snellius#tab-1) room 401, starting from 13:15 to 15:00.
 
 ### Schedule:
 
