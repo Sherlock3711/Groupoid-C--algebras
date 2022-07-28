@@ -14,24 +14,24 @@ Noncommutative Geometry (normal) subgroup of Analysis and Dynamical systems grou
 For more information, please contact y.ge@math.leidenuniv.nl
 
 ### Location:
-[Snellius Building](https://www.universiteitleiden.nl/locaties/snellius#tab-1) room 401, from 13:15 to 15:00.
+[Snellius Building](https://www.universiteitleiden.nl/locaties/snellius#tab-1) room 401(mostly, see changes below), from 13:15 to 15:00.
 
 ### Schedule:
 
-|  Date   | Speaker  |  Topic |
-|  ----  | ----  | ---- |
-| 9.13  | Yuezhao | Groupoids: motivations, definitions, and examples. |
-| 9.20  | Yufan |  Haar systems and convolution algebras. |
-| 9.27  | Jack | Actions: part 1 |
-| 10.4  | Bram | Actions: part 2 |
-| 10.11 | Dimitris| The Equivalence Theorem|
-| 10.18 | Undecided | Undecided |
-| 10.25 | Undecided | Undecided |
-| 11.1 | Undecided | Undecided |
-| 11.8 | Undecided | Undecided |
-| 11.15 | Undecided | Undecided |
-| 11.22 | Undecided | Undecided |
-| 11.29 | Undecided | Undecided |
-| 12.6 | Undecided | Undecided |
-| 12.13 | Undecided | Undecided |
-| 12.20 | Undecided | Undecided |
+|  Date   | Location | Speaker  |  Topic |
+|  ----  | ----  | ----  | ---- |
+| 9.13  | Snellius 401| Yuezhao | Groupoids: motivations, definitions, and examples. |
+| 9.20  | Snellius 401| Yufan |  Haar systems and convolution algebras. |
+| 9.27  | Snellius 401| Jack | Actions: part 1 |
+| 10.4  | Snellius 401| Bram | Actions: part 2 |
+| 10.11 | Snellius 401| Dimitris| The Equivalence Theorem|
+| 10.18 | Snellius 401| Undecided | Undecided |
+| 10.25 | Snellius 401| Undecided | Undecided |
+| 11.1 | Snellius 408| Undecided | Undecided |
+| 11.8 | Snellius 401| Undecided | Undecided |
+| 11.15 | Snellius 401| Undecided | Undecided |
+| 11.22 | Snellius 401| Undecided | Undecided |
+| 11.29 | Snellius 401| Undecided | Undecided |
+| 12.6 | Snellius 401| Undecided | Undecided |
+| 12.13 | Snellius 408| Undecided | Undecided |
+| 12.20 | Snellius 401| Undecided | Undecided |
